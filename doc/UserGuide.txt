@@ -1,37 +1,37 @@
-welcome to yuetu(ÔÃÍÃ) world.
+welcome to yuetu(æ‚¦å…”) world.
 
-ps:Ð´Õâ¸ö¿ò¼ÜµÄÖ÷ÒªÔ­ÒòÊÇ±»ÏÖÔÚssh¿ò¼ÜµÄÆô¶¯ËÙ¶È¾ª´ôÁË,ËùÒÔÐ´Õâ¸ö¿ò¼Ü,Ï£Íû¸Ä±äÕâÖÖÇé¿ö.
-ÔÚÐ´Õâ¸ö¿ò¼ÜµÄÊ±ºòÎÒ¾Í¾¡Á¿¿¼ÂÇµ½ÁËÁé»îÐÔºÍÒ×ÓÃÐÔ,Òª·â×°,µ«ÊÇÒ²ÒªÌá¹©Áé»îµÄÐÞ¸Ä,ËùÒÔÎÒÕâ¸ö¿ò¼ÜÓÐÈý¸ö²¿·Ö,Äã¿ÉÒÔÈý¸ö¶¼ÓÃ,Ò²¿ÉÒÔÑ¡ÔñÒ»¸öÓÃ,Õâ¶¼ÊÇÃ»ÓÐÓ°ÏìµÄ.(µ«ÊÇfinallytools.jarÊÇ¹«ÓÃ¹¤¾ß°üÊÇÒ»¶¨Òªµ¼ÈëµÄ)
-»·¾³ÒªÇó:jdk 1.4ÒÔÉÏ°æ±¾,ÐèÒªµÄjar°üÇë²Î¿¼,RelateJar.txtÎÄ¼þÀïµÄÃèÊö
+ps:å†™è¿™ä¸ªæ¡†æž¶çš„ä¸»è¦åŽŸå› æ˜¯è¢«çŽ°åœ¨sshæ¡†æž¶çš„å¯åŠ¨é€Ÿåº¦æƒŠå‘†äº†,æ‰€ä»¥å†™è¿™ä¸ªæ¡†æž¶,å¸Œæœ›æ”¹å˜è¿™ç§æƒ…å†µ.
+åœ¨å†™è¿™ä¸ªæ¡†æž¶çš„æ—¶å€™æˆ‘å°±å°½é‡è€ƒè™‘åˆ°äº†çµæ´»æ€§å’Œæ˜“ç”¨æ€§,è¦å°è£…,ä½†æ˜¯ä¹Ÿè¦æä¾›çµæ´»çš„ä¿®æ”¹,æ‰€ä»¥æˆ‘è¿™ä¸ªæ¡†æž¶æœ‰ä¸‰ä¸ªéƒ¨åˆ†,ä½ å¯ä»¥ä¸‰ä¸ªéƒ½ç”¨,ä¹Ÿå¯ä»¥é€‰æ‹©ä¸€ä¸ªç”¨,è¿™éƒ½æ˜¯æ²¡æœ‰å½±å“çš„.(ä½†æ˜¯finallytools.jaræ˜¯å…¬ç”¨å·¥å…·åŒ…æ˜¯ä¸€å®šè¦å¯¼å…¥çš„)
+çŽ¯å¢ƒè¦æ±‚:jdk 1.4ä»¥ä¸Šç‰ˆæœ¬,éœ€è¦çš„jaråŒ…è¯·å‚è€ƒ,RelateJar.txtæ–‡ä»¶é‡Œçš„æè¿°
 
-Ê×ÏÈ½éÉÜÏÂÕû¸ö¿ò¼Ü°üº¬µÄÄÚÈÝ 
-ÎªÁË·½±ã½²½âÎÒ°ÑÎÒ¿ò¼ÜµÄÄÚÈÝ·Ö±ð¶ÔÓ¦µ½sshÉÏ,
+é¦–å…ˆä»‹ç»ä¸‹æ•´ä¸ªæ¡†æž¶åŒ…å«çš„å†…å®¹ 
+ä¸ºäº†æ–¹ä¾¿è®²è§£æˆ‘æŠŠæˆ‘æ¡†æž¶çš„å†…å®¹åˆ†åˆ«å¯¹åº”åˆ°sshä¸Š,
 
-Ê×ÏÈËµËµhibernate,ÎÒµÄorm²¿·ÖºÍhibernate²»Ò»ÑùµÄµØ·½ÊÇhibernateÊÇ¸ù¾ÝÅäÖÃÎÄ¼þÀ´ÊµÏÖÓ³ÉäµÄ,¶øÎÒµÄorm¿ò¼ÜÊÇÍ¨¹ý
-¹æÔòÀ´ÊµÏÖÓ³ÉäµÄ,ÎÒÕâÃ´×öÓÐÁ½¸öÔ­Òò,Ò»¸öÊÇÎÒ¾õµÄÒ»°ãÀ´Ëµ¹«Ë¾¶¼ÓÐ×Ô¼ºµÄÒ»Ð©¹æ·¶,Æä´ÎÕâÃ´×ö¿ÉÒÔÊ¡È¥Ð´ÅäÖÃÎÄ¼þµÄ¹ý³Ì,ÏÖÔÚÄ¬ÈÏµÄ¹æÔòÊÇ:
-½«Êý¾Ý¿âÖÐ×Ö¶ÎµÄÏÂ»®ÏßÈ¥µô,ÔÙ½«Ê××ÖÄ¸´óÐ´,²»¹ýpojo×Ö¶ÎµÄÊ××ÖÄ¸ÊÇ²»»á´óÐ´µÄ,±ÈÈç±íÃû½Ðmy_user,×Ö¶ÎÓÐuser_name,¶ø×ª³É¶ÔÏó¾ÍÊÇMyUser,ÊôÐÔÎªuserNameÈç¹ûÄãÒªÐÞ¸ÄÓ³Éä¹æÔò,ÇëÊµÏÖIOrmRule½Ó¿Ú,²¢ÐÞ¸Äorm.propertiesÖÐÅäÖÃÎÄ¼þµÄÐÅÏ¢.
+é¦–å…ˆè¯´è¯´hibernate,æˆ‘çš„orméƒ¨åˆ†å’Œhibernateä¸ä¸€æ ·çš„åœ°æ–¹æ˜¯hibernateæ˜¯æ ¹æ®é…ç½®æ–‡ä»¶æ¥å®žçŽ°æ˜ å°„çš„,è€Œæˆ‘çš„ormæ¡†æž¶æ˜¯é€šè¿‡
+è§„åˆ™æ¥å®žçŽ°æ˜ å°„çš„,æˆ‘è¿™ä¹ˆåšæœ‰ä¸¤ä¸ªåŽŸå› ,ä¸€ä¸ªæ˜¯æˆ‘è§‰çš„ä¸€èˆ¬æ¥è¯´å…¬å¸éƒ½æœ‰è‡ªå·±çš„ä¸€äº›è§„èŒƒ,å…¶æ¬¡è¿™ä¹ˆåšå¯ä»¥çœåŽ»å†™é…ç½®æ–‡ä»¶çš„è¿‡ç¨‹,çŽ°åœ¨é»˜è®¤çš„è§„åˆ™æ˜¯:
+å°†æ•°æ®åº“ä¸­å­—æ®µçš„ä¸‹åˆ’çº¿åŽ»æŽ‰,å†å°†é¦–å­—æ¯å¤§å†™,ä¸è¿‡pojoå­—æ®µçš„é¦–å­—æ¯æ˜¯ä¸ä¼šå¤§å†™çš„,æ¯”å¦‚è¡¨åå«my_user,å­—æ®µæœ‰user_name,è€Œè½¬æˆå¯¹è±¡å°±æ˜¯MyUser,å±žæ€§ä¸ºuserNameå¦‚æžœä½ è¦ä¿®æ”¹æ˜ å°„è§„åˆ™,è¯·å®žçŽ°IOrmRuleæŽ¥å£,å¹¶ä¿®æ”¹orm.propertiesä¸­é…ç½®æ–‡ä»¶çš„ä¿¡æ¯.
 
-ÏÂÃæ½éÉÜÏÂÎÒÕâ¸öorm¿ò¼ÜµÄÔ­Àí,
+ä¸‹é¢ä»‹ç»ä¸‹æˆ‘è¿™ä¸ªormæ¡†æž¶çš„åŽŸç†,
 
-ÎÒÊÇÏÈÍ¨¹ý×Ô¼ºÐ´µÄ¹¤¾ß°ücollect-database-info.jar(ºóÕûºÏÖÁyuetu-orm.jarÖÐ)À´ÊµÏÖÊý¾Ý¿âÐÅÏ¢µÄÊÕ¼¯,Ö®ºó×ª»»ÎªÎÒ¶¨ÒåµÄ¶ÔÏóMyTable,ÊÇ·ñÄÜÊÕ¼¯µ½ÓÐÓÃµÄÐÅÏ¢µÄÒÀ¾ÝÊÇÊý¾Ý¿âÊÇ·ñÓÐÁ¼ºÃµÄÉè¼Æ,Èç¹ûÉè¼ÆµÄºÃ,ÔòjavaÕâ±ß´¦ÀíÆðÀ´Ò²·½±ãÒ»Ð©.
-±È½ÏÓÐÓÃµÄÐÅÏ¢ÊÇÃ¿¸ö±íµÄ×Ö¶ÎÐÅÏ¢ºÍÖ÷¼üµÄÐÅÏ¢,ÒÔ¼°Íâ¼üµÄÐÅÏ¢.Í¨¹ýÕâÐ©ÐÅÏ¢¾Í¿ÉÒÔÉú³ÉÒ»ÕÅ±íµÄÔöÉ¾¸Ä²éµÄ»ù±¾²Ù×÷,Í¬Ê±ÔÚÉèÖÃÒ»Ð©¶ÔÏóµÄÒ»¶Ô¶à,¶à¶Ô¶àµÄ¹ØÏµµÄÊ±ºòÒ²ºÜÖØÒª
-ÔÚÕâÀï¼òµ¥½éÉÜÒ»ÏÂÈý¸ö¼òµ¥µÄ·â×°Àà
+æˆ‘æ˜¯å…ˆé€šè¿‡è‡ªå·±å†™çš„å·¥å…·åŒ…collect-database-info.jar(åŽæ•´åˆè‡³yuetu-orm.jarä¸­)æ¥å®žçŽ°æ•°æ®åº“ä¿¡æ¯çš„æ”¶é›†,ä¹‹åŽè½¬æ¢ä¸ºæˆ‘å®šä¹‰çš„å¯¹è±¡MyTable,æ˜¯å¦èƒ½æ”¶é›†åˆ°æœ‰ç”¨çš„ä¿¡æ¯çš„ä¾æ®æ˜¯æ•°æ®åº“æ˜¯å¦æœ‰è‰¯å¥½çš„è®¾è®¡,å¦‚æžœè®¾è®¡çš„å¥½,åˆ™javaè¿™è¾¹å¤„ç†èµ·æ¥ä¹Ÿæ–¹ä¾¿ä¸€äº›.
+æ¯”è¾ƒæœ‰ç”¨çš„ä¿¡æ¯æ˜¯æ¯ä¸ªè¡¨çš„å­—æ®µä¿¡æ¯å’Œä¸»é”®çš„ä¿¡æ¯,ä»¥åŠå¤–é”®çš„ä¿¡æ¯.é€šè¿‡è¿™äº›ä¿¡æ¯å°±å¯ä»¥ç”Ÿæˆä¸€å¼ è¡¨çš„å¢žåˆ æ”¹æŸ¥çš„åŸºæœ¬æ“ä½œ,åŒæ—¶åœ¨è®¾ç½®ä¸€äº›å¯¹è±¡çš„ä¸€å¯¹å¤š,å¤šå¯¹å¤šçš„å…³ç³»çš„æ—¶å€™ä¹Ÿå¾ˆé‡è¦
+åœ¨è¿™é‡Œç®€å•ä»‹ç»ä¸€ä¸‹ä¸‰ä¸ªç®€å•çš„å°è£…ç±»
 (1)MySession
 (2)JdbcTemplate
 (3)SimpleQuery
-Ç°Á½¸öÊìÏ¤hibernateºÍspringµÄÈËÒ»¶¨Ò»¿´¾ÍÃ÷°×ÁË,Ò»¸öÊÇÄ£·ÂhibernateµÄsession,Ò»¸öÊÇÄ£·ÂspringÖÐµÄjdbctemplateµÄÊµÏÖ,²»¹ýÎÒµÄsessionÊÇ²»Ö§³ÖHQLµÄ^^,µ«ÊÇ»ù±¾µÄÔöÉ¾¸Ä²éµÄ¹¦ÄÜ»¹ÊÇÌá¹©ÁË,¶øjdbctemplate¾ÍÏñspringÀïµÄÒ»ÑùÊÇÓÃÀ´Ö´ÐÐÒ»Ð©»ù±¾µÄSQLÓï¾ä.
-µÚÈý¸öÊÇ°ïÖú´ó¼ÒÀ´²éÑ¯ÓÃµÄ,¶Ôµ¥±íµÄ²éÑ¯,ÓÃËü¾ÍÃ»´íÁË.
+å‰ä¸¤ä¸ªç†Ÿæ‚‰hibernateå’Œspringçš„äººä¸€å®šä¸€çœ‹å°±æ˜Žç™½äº†,ä¸€ä¸ªæ˜¯æ¨¡ä»¿hibernateçš„session,ä¸€ä¸ªæ˜¯æ¨¡ä»¿springä¸­çš„jdbctemplateçš„å®žçŽ°,ä¸è¿‡æˆ‘çš„sessionæ˜¯ä¸æ”¯æŒHQLçš„^^,ä½†æ˜¯åŸºæœ¬çš„å¢žåˆ æ”¹æŸ¥çš„åŠŸèƒ½è¿˜æ˜¯æä¾›äº†,è€Œjdbctemplateå°±åƒspringé‡Œçš„ä¸€æ ·æ˜¯ç”¨æ¥æ‰§è¡Œä¸€äº›åŸºæœ¬çš„SQLè¯­å¥.
+ç¬¬ä¸‰ä¸ªæ˜¯å¸®åŠ©å¤§å®¶æ¥æŸ¥è¯¢ç”¨çš„,å¯¹å•è¡¨çš„æŸ¥è¯¢,ç”¨å®ƒå°±æ²¡é”™äº†.
 
-½ÓÏÂÀ´ÎÒ½éÉÜÏÂspring²¿·Ö°É,ÎÒÕâÀïÖ»ÊµÏÖÁËaopµÄ¹¦ÄÜ,ÒòÎªiocÎÒ¾õµÃÖ»ÓÐÔÚÏµÍ³±È½Ï¸´ÔÓ¶øÇÒ±È½ÏÁé»î¶à±äµÄÊ±ºòÓÃµ½,
-¶øÎÒÕâ¸ö¿ò¼ÜµÄÖ÷ÒªÕë¶ÔµÄÊÇÖÐÐ¡ÐÍÏîÄ¿µÄ¿ª·¢.
-aopÕâ¿éÊµÏÖµÄ¹¦ÄÜÖ÷ÒªÊÇÊÂÎñ¿ØÖÆ,
-Ê¹ÓÃµÄÊ±ºòÓÐÁ½¸ö×¢Òâµã,Ò»¸öÊÇµÃµ½jdbctemplateµÄÊ±ºòÐèÒªµÃµ½²»×Ô¶¯Ìá½»µÄjdbctemplate(jdbctemplateUtilsµÄ
-getJdbcTemplateNotAutoCommit·½·¨¿ÉÒÔµÃµ½),¶øÇÒÔÚµ÷ÓÃservcie·½·¨µÄÊ±ºòÇëÍ¨¹ýTransactionProxy.createProxy
-·½·¨À´»ñµÃservice¶ÔÏó,ÕâÑù¾Í¿ÉÒÔ¶ÔserviceµÄ·½·¨½øÐÐ×Ô¶¯µÄÊÂÎñ¿ØÖÆÁË;
-ÊÂÎñ¹ÜÀíÕâ¿éÖ÷ÒªÊ¹ÓÃµÄ¼¼ÊõÊÇThreadLocal,ÔÙÅäºÏcglibÊµÏÖµÄ,Õâ²¿·Ö¹¦ÄÜ»¹Ã»ÓÐÍêÉÆ,²»ÍÆ¼öÊ¹ÓÃ
+æŽ¥ä¸‹æ¥æˆ‘ä»‹ç»ä¸‹springéƒ¨åˆ†å§,æˆ‘è¿™é‡Œåªå®žçŽ°äº†aopçš„åŠŸèƒ½,å› ä¸ºiocæˆ‘è§‰å¾—åªæœ‰åœ¨ç³»ç»Ÿæ¯”è¾ƒå¤æ‚è€Œä¸”æ¯”è¾ƒçµæ´»å¤šå˜çš„æ—¶å€™ç”¨åˆ°,
+è€Œæˆ‘è¿™ä¸ªæ¡†æž¶çš„ä¸»è¦é’ˆå¯¹çš„æ˜¯ä¸­å°åž‹é¡¹ç›®çš„å¼€å‘.
+aopè¿™å—å®žçŽ°çš„åŠŸèƒ½ä¸»è¦æ˜¯äº‹åŠ¡æŽ§åˆ¶,
+ä½¿ç”¨çš„æ—¶å€™æœ‰ä¸¤ä¸ªæ³¨æ„ç‚¹,ä¸€ä¸ªæ˜¯å¾—åˆ°jdbctemplateçš„æ—¶å€™éœ€è¦å¾—åˆ°ä¸è‡ªåŠ¨æäº¤çš„jdbctemplate(jdbctemplateUtilsçš„
+getJdbcTemplateNotAutoCommitæ–¹æ³•å¯ä»¥å¾—åˆ°),è€Œä¸”åœ¨è°ƒç”¨servcieæ–¹æ³•çš„æ—¶å€™è¯·é€šè¿‡TransactionProxy.createProxy
+æ–¹æ³•æ¥èŽ·å¾—serviceå¯¹è±¡,è¿™æ ·å°±å¯ä»¥å¯¹serviceçš„æ–¹æ³•è¿›è¡Œè‡ªåŠ¨çš„äº‹åŠ¡æŽ§åˆ¶äº†;
+äº‹åŠ¡ç®¡ç†è¿™å—ä¸»è¦ä½¿ç”¨çš„æŠ€æœ¯æ˜¯ThreadLocal,å†é…åˆcglibå®žçŽ°çš„,è¿™éƒ¨åˆ†åŠŸèƒ½è¿˜æ²¡æœ‰å®Œå–„,ä¸æŽ¨èä½¿ç”¨
 
-×îºóËµËµstruts²¿·ÖµÄÊµÏÖ°É,Õâ¸ö²¿·ÖÎÒ²Î¿¼ÁËstruts2µÄÉè¼ÆË¼ÏëÒÔ¼°dwrµÄË¼Ïë,
-Ê¹ÓÃÇ°±ØÐëÏÖÔÚweb.xmlÀïÅäÖÃÈçÏÂÄÚÈÝ
+æœ€åŽè¯´è¯´strutséƒ¨åˆ†çš„å®žçŽ°å§,è¿™ä¸ªéƒ¨åˆ†æˆ‘å‚è€ƒäº†struts2çš„è®¾è®¡æ€æƒ³ä»¥åŠdwrçš„æ€æƒ³,
+ä½¿ç”¨å‰å¿…é¡»çŽ°åœ¨web.xmlé‡Œé…ç½®å¦‚ä¸‹å†…å®¹
   <filter>
     <filter-name>finaFilter</filter-name>
   	<filter-class>com.finallygo.countmoney.servlet.MyFilter</filter-class>
@@ -40,14 +40,14 @@ getJdbcTemplateNotAutoCommit·½·¨¿ÉÒÔµÃµ½),¶øÇÒÔÚµ÷ÓÃservcie·½·¨µÄÊ±ºòÇëÍ¨¹ýTrans
   	<filter-name>finaFilter</filter-name>
   	<url-pattern>/*</url-pattern>
   </filter-mapping>
-ÎªÊ²Ã´ÕâÃ´ÅäÖÃÎÒºóÃæ»áËµ,ÏÈËµËµÎÒµÄÉè¼ÆÄ£Ê½,ÎÒ²ÉÓÃµÄÉè¼ÆÄ£Ê½Ò²ÊÇMVCµÄ,VµÄ²¿·Öµ±È»ÊÇjsp,¶øCµÄ²¿·Öµ±È»²»ÄÜÊÇservlet^^,¿¼ÂÇµ½Áé»îÐÔ,ÎÒ²Î¿¼ÁËstrutsµÄÉè¼Æ,ËùÒÔÎÒµÄC²¿·ÖÒ²ÊÇActon,µ«ÊÇÊ¹ÓÃÎÒµÄmvc¿ò¼Ü±ØÐëÂú×ãÒÔÏÂÁ½¸öÌõ¼þ,
+ä¸ºä»€ä¹ˆè¿™ä¹ˆé…ç½®æˆ‘åŽé¢ä¼šè¯´,å…ˆè¯´è¯´æˆ‘çš„è®¾è®¡æ¨¡å¼,æˆ‘é‡‡ç”¨çš„è®¾è®¡æ¨¡å¼ä¹Ÿæ˜¯MVCçš„,Vçš„éƒ¨åˆ†å½“ç„¶æ˜¯jsp,è€ŒCçš„éƒ¨åˆ†å½“ç„¶ä¸èƒ½æ˜¯servlet^^,è€ƒè™‘åˆ°çµæ´»æ€§,æˆ‘å‚è€ƒäº†strutsçš„è®¾è®¡,æ‰€ä»¥æˆ‘çš„Céƒ¨åˆ†ä¹Ÿæ˜¯Acton,ä½†æ˜¯ä½¿ç”¨æˆ‘çš„mvcæ¡†æž¶å¿…é¡»æ»¡è¶³ä»¥ä¸‹ä¸¤ä¸ªæ¡ä»¶,
 
-(1)½«ÄãµÄActionËùÔÚµÄ°ü¼ÓÈëaction.propertiesÖÐ
-(2)ÔÚÄãµÄactionÖÐ¶¨ÒårequestºÍresponseÁ½¸ö±äÁ¿,²¢Éú³ÉÏàÓ¦µÄset·½·¨»òÕß¼Ì³Ðcom.finallygo.yuetu.mvc.control.MyAction.
+(1)å°†ä½ çš„Actionæ‰€åœ¨çš„åŒ…åŠ å…¥action.propertiesä¸­
+(2)åœ¨ä½ çš„actionä¸­å®šä¹‰requestå’Œresponseä¸¤ä¸ªå˜é‡,å¹¶ç”Ÿæˆç›¸åº”çš„setæ–¹æ³•æˆ–è€…ç»§æ‰¿com.finallygo.yuetu.mvc.control.MyAction.
 
-Ö®ºóµÄÓÃ·¨ºÍÔÚservletÒ»Ñù,µ«ÊÇÄã¿ÉÒÔ×Ô¶¨Òå·½·¨µÄÃû×Ö,²»ÐèÒªÔÙ¸²Ð´doPost,doGet·½·¨ÁË,ÔÚµ÷ÓÃµÄÊ±ºòÊÇ²Î¿¼dwrµÄÊµÏÖµÄ,¾ÍÊÇ"ActionÃû.·½·¨Ãû"¾Í¿ÉÒÔÁË(actionÐèÒªÔÚaction.properties¶¨Òå),Èç¹ûÓÃget·½Ê½µÄ»°,¿ÉÒÔÖ±½ÓÔÚºó+²ÎÊýµÄ,Ð§¹ûÊÇÒ»ÑùµÄ.
-ÕâÀïÒªÍÆ¼öÒ»¸ö·½·¨:
-CommonUtilsÖÐµÄmap2ObjectForRequest,ÕâÑù¿ÉÒÔ½«ÖÐÒ³Ãæ´«¹ýÀ´µÄ²ÎÊý×Ô¶¯·â×°³ÉÖ¸¶¨µÄ¶ÔÏó
+ä¹‹åŽçš„ç”¨æ³•å’Œåœ¨servletä¸€æ ·,ä½†æ˜¯ä½ å¯ä»¥è‡ªå®šä¹‰æ–¹æ³•çš„åå­—,ä¸éœ€è¦å†è¦†å†™doPost,doGetæ–¹æ³•äº†,åœ¨è°ƒç”¨çš„æ—¶å€™æ˜¯å‚è€ƒdwrçš„å®žçŽ°çš„,å°±æ˜¯"Actionå.æ–¹æ³•å"å°±å¯ä»¥äº†(actionéœ€è¦åœ¨action.propertieså®šä¹‰),å¦‚æžœç”¨getæ–¹å¼çš„è¯,å¯ä»¥ç›´æŽ¥åœ¨åŽ+å‚æ•°çš„,æ•ˆæžœæ˜¯ä¸€æ ·çš„.
+è¿™é‡Œè¦æŽ¨èä¸€ä¸ªæ–¹æ³•:
+CommonUtilsä¸­çš„map2ObjectForRequest,è¿™æ ·å¯ä»¥å°†ä¸­é¡µé¢ä¼ è¿‡æ¥çš„å‚æ•°è‡ªåŠ¨å°è£…æˆæŒ‡å®šçš„å¯¹è±¡
 
-½ÓÏÂÀ´ËµËµÊµÏÖµÄÔ­Àí,
-Ö÷ÒªÊÇÍ¨¹ýÀ¹½ØÆ÷·ÖÎö´Ó¿Í»§¶Ë´«¹ýÀ´µÄURL,Ö®ºó½âÎö,½âÎöÖ®ºó¾ÍÈ¥ºÍaction.properties½øÐÐÆ¥Åä,Èç¹ûÕÒµ½ÁË¾ÍÖ´ÐÐÏàÓ¦µÄ·½·¨,¾ßÌå¿ÉÒÔ²é¿´MyFilter.javaÕâ¸öÀà,ÆäÊµmvcÕâ²¿·ÖÊµÏÖµÄ×î¼òµ¥ÁË,ºËÐÄ¾ÍÊÇÕâ¸öÀà,¶øÄÇ¸öMyActionÖÐ,ÆäÊµÒ²¾ÍÊÇ¶¨ÒåÁËrequestºÍresponseÁ½¸öÀà,ÒÔ¼°ËüÃÇµÄget,set·½·¨
+æŽ¥ä¸‹æ¥è¯´è¯´å®žçŽ°çš„åŽŸç†,
+ä¸»è¦æ˜¯é€šè¿‡æ‹¦æˆªå™¨åˆ†æžä»Žå®¢æˆ·ç«¯ä¼ è¿‡æ¥çš„URL,ä¹‹åŽè§£æž,è§£æžä¹‹åŽå°±åŽ»å’Œaction.propertiesè¿›è¡ŒåŒ¹é…,å¦‚æžœæ‰¾åˆ°äº†å°±æ‰§è¡Œç›¸åº”çš„æ–¹æ³•,å…·ä½“å¯ä»¥æŸ¥çœ‹MyFilter.javaè¿™ä¸ªç±»,å…¶å®žmvcè¿™éƒ¨åˆ†å®žçŽ°çš„æœ€ç®€å•äº†,æ ¸å¿ƒå°±æ˜¯è¿™ä¸ªç±»,è€Œé‚£ä¸ªMyActionä¸­,å…¶å®žä¹Ÿå°±æ˜¯å®šä¹‰äº†requestå’Œresponseä¸¤ä¸ªç±»,ä»¥åŠå®ƒä»¬çš„get,setæ–¹æ³•

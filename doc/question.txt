@@ -1,0 +1,2 @@
+1.有的时候的异常处理很棘手
+2.连接池中如果Connection关闭了,PrepareStatement关闭了吗?
